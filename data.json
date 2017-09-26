@@ -1,0 +1,91 @@
+{
+    "cocktaildata":[{
+        "name": "Whiskey sours",
+        "ingredients": [
+            {
+                "name": "Orange Juice",
+                "quantity": 3
+            },
+            {
+                "name": "Lemonade",
+                "quantity": 1
+            },
+            {
+                "name": "Water",
+                "quantity": 18
+            },
+            {
+                "name": "Whiskey",
+                "quantity": 2
+            },
+            {
+                "name": "Maraschino Cherries",
+                "quantity": 26
+            },
+            {
+                "name": "Orange Slices",
+                "quantity": 26
+            }
+        ],
+        "directions": "In a large pitcher or punch bowl, stir together the orange juice concentrate, lemonade concentrate and water until well blended. Stir in whiskey and garnish with maraschino cherries and orange slices.",
+        "image": "http://images.media-allrecipes.com/userphotos/720x405/1019992.jpg"
+
+    },
+
+    {
+        "name": "Godfather",
+        "ingredients": [
+            {
+                "name": "Scotch Whiskey",
+                "quantity": 1
+            },
+            {
+                "name": "Amaretto",
+                "quantity": 1
+            }
+        ],
+        "directions": "In a rocks glass with ice, combine the scotch and amaretto. Stir.",
+        "image": "http://images.media-allrecipes.com/userphotos/250x250/233342.jpg"
+
+    },
+
+    {
+        "name": "Long Island Iced Tea",
+        "ingredients": [
+            {
+                "name": "Vodka",
+                "quantity": 1
+            },
+            {
+                "name": "Gin",
+                "quantity": 1
+            },
+            {
+                "name": "Rum",
+                "quantity": 1
+            },
+            {
+                "name": "Triple Sec Liqueur",
+                "quantity": 1
+            },
+            {
+                "name": "Tequila",
+                "quantity": 1
+            },
+            {
+                "name": "Orange Juice",
+                "quantity": 2
+            },
+            {
+                "name": "Cola Beverage",
+                "quantity": 2
+            },
+            {
+                "name": "Lemon Wedge",
+                "quantity": 1
+            }
+        ],
+        "directions": "In a cocktail mixer full of ice, combine vodka, gin, rum, triple sec and tequila. Add orange juice and cola. Shake vigorously until frothy. Strain into a Collins glass filled with ice, and garnish with wedge of lemon.",
+        "image": "http://images.media-allrecipes.com/userphotos/720x405/1131884.jpg"
+    }]
+}
